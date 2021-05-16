@@ -22,7 +22,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86570c90-869d-478f-a9e5-75e32e023345" name="Default Changelist" comment="much" />
+    <list default="true" id="86570c90-869d-478f-a9e5-75e32e023345" name="Default Changelist" comment="much">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Bg-photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Bg-photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Bg-top-md.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Bg-top-md.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Header-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Header-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Photo_min.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Photo_min.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Photo_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Photo_small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Russ.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Russ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Small-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Small-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Small-logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Small-logo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Whatsapp .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Whatsapp .png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/arrow_green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow_small.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lg_Header-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/lg_Header-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lg_Header-logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/lg_Header-logo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/m_Photo_min.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/m_Photo_min.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/md_Header-logo .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/md_Header-logo .png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sl-arrow_l.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sl-arrow_r.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sm_Header-logo .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sm_Header-logo .png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/super_sm_Header-logo .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/super_sm_Header-logo .png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/super_sm_Header-logo1 .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/super_sm_Header-logo1 .png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +74,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/img/sl-arrow_l.svg" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1kjbwdBdxOEwrezSVcgoOJ7mVBV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -142,7 +165,8 @@
       <workItem from="1619627329624" duration="6881000" />
       <workItem from="1619690085019" duration="9627000" />
       <workItem from="1621104974270" duration="4523000" />
-      <workItem from="1621112292952" duration="254000" />
+      <workItem from="1621112292952" duration="618000" />
+      <workItem from="1621141639863" duration="1461000" />
     </task>
     <task id="LOCAL-00039" summary="progress">
       <created>1607016917811</created>
