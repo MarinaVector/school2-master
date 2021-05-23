@@ -8,17 +8,16 @@ require_once "conn.php";?>
 <?php require "general-components/head.php"; ?>
 
     <body class="container-fluid p-0">
-        <div class="wrapper">
-            <section class="fullscreen bg-page">
-                <div class="fullscreen__body">
+    <section class="fullscreen">
+                <div class="fullscreen__body wrapper bg-page">
                     <header class="main-header pb-5 pb-md-0 pb-lg-5">
                         <div class="bg-bottom">
-                            <div class="bg-top pt-3">
-                                <?php require "general-components/nav.php";?>
+                            <div class="bg-top">
                                 <div class="info-block container
-                                 pb-3 mt-3 mt-md-0 my-lg-5 py-lg-4">
-                                    <div class="p-0">
-                                        <h3 class="info-block__school-title mb-1 mt-md-5">Светлана Светайло</h3>
+                                 pb-3 mt-3 mt-md-0 py-lg-2 px-0">
+                                    <?php require "general-components/nav.php";?>
+                                    <div class="px-5 px-lg-0 pt-lg-5">
+                                        <h3 class="info-block__school-title mb-1 pt-lg-4 mt-md-5">Светлана Светайло</h3>
                                         <h1 class="info-block__coach-title">Бизнес монетизатор</h1>
 
                                         <a href="#courses-and-products-id" class="info-block__btn info-block__full-btn__learn info-block__yellow-btn top-btn mr-xl-5 mb-3 my-xl-5 mr-2">приступить к
@@ -75,7 +74,7 @@ require_once "conn.php";?>
                                     </div>
 
 
-                                    <div class="col-sm-6 pl-sm-0 pr-sm-0 pl-md-2 pl-lg-0 offset-xl-6 col-12">
+                                    <div class="col-sm-6 pl-sm-0 pr-sm-0 pl-md-2 pl-lg-0 offset-lg-0 offset-xl-6 col-12">
                                         <section class="pt-1 mt-lg-5 mt-xl-n4  mx-3 mx-sm-0 pl-md-0 ml-lg-1">
                                             <h2 class="about-author__name about-author__name__title mt-sm-5 mt-md-3
                                              my-1 pt-lg-3 pt-xl-0 my-md-none">Светлана Светайло</h2>
@@ -171,11 +170,14 @@ require_once "conn.php";?>
                             </div>
                         </div>
                     </section>
+                    <footer class="footer">
+                    <?php include "general-components/footer.php";?>
+                    </footer>
                 </div>
             </section>
 
-            <?php include "general-components/footer.php";?>
-                </div>
+
+
 
 
                 <script src="slick/video.js"></script>

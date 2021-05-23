@@ -2,13 +2,15 @@
 <html lang="ru">
 <?php require "general-components/head.php"; ?>
 
-    <body class="page wrapper">
-        <header class="secondary-navigation nav-fill header my-0 pt-3">
+    <body class="page wrapper container-fluid px-0">
+        <header class="nav-fill header my-0 pt-3">
+            <div class="container px-0">
             <?php require "general-components/nav.php"; ?>
+            </div>
         </header>
 
         <main class="bg-page">
-             <section class="about-coaching container-fluid px-0">
+             <section class="about-coaching px-0">
                 <!-- <div class="container my-4 my-md-0">
                     <div class="row p-0 position-relative">
                         <div class="position-absolute d-md-block d-none">
@@ -93,7 +95,9 @@
             </section> 
         </main>
 
+        <footer class="footer">
         <?php include "general-components/footer.php"; ?>
+        </footer>
             <script src="slick/video.js"></script>
     </body>
 

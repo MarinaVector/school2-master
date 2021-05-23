@@ -24,29 +24,10 @@
   <component name="ChangeListManager">
     <list default="true" id="86570c90-869d-478f-a9e5-75e32e023345" name="Default Changelist" comment="much">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Arrow.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Bg-photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Bg-photo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Bg-top-md.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Bg-top-md.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Header-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Header-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Photo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Photo_min.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Photo_min.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Photo_small.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Photo_small.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Russ.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Russ.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Small-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Small-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Small-logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Small-logo1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Whatsapp .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Whatsapp .png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/arrow_green.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/arrow_green.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/arrow_small.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lg_Header-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/lg_Header-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lg_Header-logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/lg_Header-logo1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/m_Photo_min.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/m_Photo_min.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/md_Header-logo .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/md_Header-logo .png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sl-arrow_l.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sl-arrow_r.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sm_Header-logo .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/sm_Header-logo .png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/super_sm_Header-logo .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/super_sm_Header-logo .png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/super_sm_Header-logo1 .png" beforeDir="false" afterPath="$PROJECT_DIR$/img/super_sm_Header-logo1 .png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses.php" beforeDir="false" afterPath="$PROJECT_DIR$/courses.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general-components/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/general-components/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/general-components/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/general-components/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,14 +147,11 @@
       <workItem from="1619690085019" duration="9627000" />
       <workItem from="1621104974270" duration="4523000" />
       <workItem from="1621112292952" duration="618000" />
-      <workItem from="1621141639863" duration="1461000" />
-    </task>
-    <task id="LOCAL-00039" summary="progress">
-      <created>1607016917811</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1607016917811</updated>
+      <workItem from="1621141639863" duration="2320000" />
+      <workItem from="1621173077876" duration="2453000" />
+      <workItem from="1621261207691" duration="645000" />
+      <workItem from="1621673551874" duration="579000" />
+      <workItem from="1621773838627" duration="10813000" />
     </task>
     <task id="LOCAL-00040" summary="btn arrow">
       <created>1607018982330</created>
@@ -511,7 +489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619714069342</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="much">
+      <created>1621143145620</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1621143145621</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
